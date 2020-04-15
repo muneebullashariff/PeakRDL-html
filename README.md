@@ -1,5 +1,11 @@
 [![PyPI - Python Version](https://img.shields.io/pypi/pyversions/ralbot-html.svg)](https://pypi.org/project/ralbot-html)
 
+# Announcement: This project has moved
+
+Future versions of RALBot-html are now published under the new name [PeakHDL-html](https://pypi.org/project/peakhdl-html)
+
+--------------------------------------------------------------------------------
+
 # RALBot-html
 Generate address space documentation HTML from compiled SystemRDL input
 
