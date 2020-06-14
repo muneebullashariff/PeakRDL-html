@@ -9,6 +9,19 @@ Install from [PyPi](https://pypi.org/project/peakrdl-html) using pip:
 
     python3 -m pip install peakrdl-html
 
+## Install from Github using pip
+mkdir path_to_folder  
+cd path_to_folder  
+git clone https://github.com/muneebullashariff/systemrdl-compiler.git  
+cd to systemrdl-compiler  
+pip install -e .  
+
+Advantages of this approach are:  
+1 - You can install package in your home projects directory.  
+2 - Package includes .git dir, so it's regular Git repository. You can push to your fork right away.  
+
+## Uninstall   
+pip uninstall systemrdl-compiler  
 
 ## Example
 An example of HTML output generated from a
