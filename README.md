@@ -12,8 +12,8 @@ Install from [PyPi](https://pypi.org/project/peakrdl-html) using pip:
 ## Install from Github using pip
 mkdir path_to_folder  
 cd path_to_folder  
-git clone https://github.com/muneebullashariff/systemrdl-compiler.git  
-cd to systemrdl-compiler  
+git clone https://github.com/muneebullashariff/PeakRDL-html.git  
+cd to PeakRDL-html  
 pip install -e .  
 
 Advantages of this approach are:  
